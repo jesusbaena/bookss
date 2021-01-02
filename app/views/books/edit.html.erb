@@ -1,0 +1,35 @@
+<h1  class="alert alert-dark" role="alert">Editar Libro</h1>
+
+<%= form_for @book do |f| %>
+
+    <div  class="alert alert-dark" role="alert">
+        <%= f.label :title %>
+        <%= f.text_field :title %>
+    </div>
+    <div  class="alert alert-dark" role="alert">
+        <%= f.label :author %>
+        <%= f.text_field :author %>
+    </div>
+    <div  class="alert alert-dark" role="alert">
+        <%= f.label :description %>
+        <%= f.text_area :description %>
+    </div>
+    <div class="alert alert-dark" role="alert">
+        <%= f.label :image_url %>
+        <%= f.text_field :image_url %>
+    </div>
+    <div class="alert alert-dark" role="alert">
+        <%= f.label :publication_date %>
+        <%= f.date_field :publication_date %>
+    </div>
+    <div class="alert alert-dark" role="alert">
+        <%= f.label :price %>
+        <%= f.number_field :price, step: :any %>
+    </div>
+
+    <div class="alert alert-dark" role="alert">
+        <%= f.submit "Actualizar" %>
+    </div><br>
+<% end %>
+
+<%= link_to "Volver", :books %>

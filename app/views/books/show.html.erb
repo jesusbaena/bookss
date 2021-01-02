@@ -1,0 +1,11 @@
+<h1 class="alert alert-dark" role="alert">Detalles del libro</h1>
+
+<div class="alert alert-dark" role="alert">Nombre: <%= @books.title %></div>
+<div class="alert alert-dark" role="alert">Autor: <%= @books.author %></div>
+<div class="alert alert-dark" role="alert">Descripción: <%= @books.description %></div>
+<div class="alert alert-dark" role="alert">Fecha de publicación: <%= @books.publication_date %></div>
+<div class="alert alert-dark" role="alert">Precio: <%= @books.price%></div>
+
+<div class="alert alert-dark" role="alert">
+    <%= link_to "Volver", :books %>
+</div>
