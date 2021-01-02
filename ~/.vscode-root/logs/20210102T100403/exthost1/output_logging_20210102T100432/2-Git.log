@@ -286,3 +286,57 @@ Use '--' to separate paths from revisions, like this:
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git show --textconv :app/views/books/show.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/show.html.erb
+> git cat-file -s b5e61fa68ddf85b6a873d726ea126c5a8cd33f20
+> git show --textconv :Gemfile
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/Gemfile
+> git cat-file -s 030fa14139a5722c6c6c794c18dbecbecd7e3277
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/config/database.yml
+> git cat-file -s 4a8a1b26fed93b52173638fd3f67e20e54379c05
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
