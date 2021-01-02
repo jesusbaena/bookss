@@ -1,33 +1,33 @@
-<h1>Nuevo Libro</h1>
+<h1 class="alert alert-dark" role="alert">Nuevo Libro</h1>
 
 <%= form_for @books do |f| %>
-    <div>
+    <div class="alert alert-dark" role="alert">
         <%= f.label :title %>
         <%= f.text_field :title %>
     </div>
-    <div>
+    <div class="alert alert-dark" role="alert">
         <%= f.label :author%>
         <%= f.text_field :author %>
     </div>
-    <div>
+    <div class="alert alert-dark" role="alert">
         <%= f.label :description %>
         <%= f.text_area :description %>
     </div>
-    <div>
+    <div class="alert alert-dark" role="alert">
         <%= f.label :image_url %>
         <%= f.text_field :image_url %>
     </div>
-    <div>
+    <div class="alert alert-dark" role="alert">
         <%= f.label :publication_date %>
         <%= f.date_field :publication_date %>
     </div>
-    <div>
+    <div class="alert alert-dark" role="alert">
         <%= f.label :price %>
         <% f.number_field :price %>
     </div>
 
-    <div>
-        <%= f.submit %>
+    <div class="alert alert-dark" role="alert">
+        <%= f.submit "Crear libro" %>
     </div>
 
     <% end %>

@@ -470,3 +470,346 @@ fatal: no upstream configured for branch 'master'
 > git show --textconv :config/database.yml
 > git ls-files --stage -- /home/jesusb/Documentos/prueba_books/config/database.yml
 > git cat-file -s c3d0a56a7c29d143bb4d097931bcb2179d8e1301
+> git show --textconv :app/views/books/_form.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/_form.html.erb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/_form.html.rb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/_form.html.rb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/_form.html.rb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/_form.html.rb
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git config --get commit.template
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Gemfile
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/Gemfile
+> git cat-file -s f39eb9e3ff4be2c42c83dba088df43400e12af6d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/config/database.yml
+> git cat-file -s c3d0a56a7c29d143bb4d097931bcb2179d8e1301
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Gemfile
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/Gemfile
+> git cat-file -s f39eb9e3ff4be2c42c83dba088df43400e12af6d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/_form.html.rb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/_form.html.rb
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git status -z -u
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git rev-parse --symbolic-full-name master@{u}
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git show --textconv :app/views/books/edit.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/edit.html.erb
+> git cat-file -s 8f29a6648ce8aae0f215b7bcd290cba5c369db7d
+> git show --textconv :app/views/books/new.html.erb
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/app/views/books/new.html.erb
+> git cat-file -s b7869991ac57393f4a1238f7392b79261e75af32
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Gemfile
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/Gemfile
+> git cat-file -s f39eb9e3ff4be2c42c83dba088df43400e12af6d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
