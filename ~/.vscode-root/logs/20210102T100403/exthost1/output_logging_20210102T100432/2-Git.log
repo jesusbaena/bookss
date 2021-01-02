@@ -464,3 +464,9 @@ fatal: no upstream configured for branch 'master'
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
 > git remote --verbose
 > git config --get commit.template
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/Gemfile
+> git cat-file -s f39eb9e3ff4be2c42c83dba088df43400e12af6d
+> git show --textconv :Gemfile
+> git show --textconv :config/database.yml
+> git ls-files --stage -- /home/jesusb/Documentos/prueba_books/config/database.yml
+> git cat-file -s c3d0a56a7c29d143bb4d097931bcb2179d8e1301
